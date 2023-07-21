@@ -1,0 +1,10 @@
+To make changes locally and deploy:
+0) Make changes locally and git push
+1) SSH
+2) Navigate to var/www/html 
+3) Git pull
+
+From SSH:
+1) SSH
+2) Navigate to var/www/html 
+3) Edit files as appropriate
